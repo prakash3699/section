@@ -1,0 +1,171 @@
+h1{
+	text-align:center;
+	color:#37517e;
+	font-family: 'Teko', sans-serif;
+	font-size:40px;
+}
+
+.name{
+	text-align:center;
+	font-family: 'Kalam', cursive;
+	background-color:#FFE3E1;
+}
+
+nav{
+	text-align:right;
+}
+
+ul{
+	position:flex;
+}
+
+#cup{
+	display:flex;
+}
+
+img{
+	width:70%;
+}
+
+.line{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table{
+	border:1px solid black;
+}
+
+.head{
+	background-color:#579BB1;
+	color:white;
+}
+
+.maroon{
+		background-color:#E1D7C6;
+}
+
+#srilanka{
+	display:block;
+	width:10%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#india{
+	width:10%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.score{
+	text-align:center;
+}
+
+.orange{
+	background-color:#61876E;
+	color:white;
+}
+
+.green{
+	background-color:#EAE7B1;
+}
+
+.batting{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+.sri{
+text-align:center;
+}
+
+.para{
+	text-align:center;
+}
+
+.bowling{
+	text-align:center;
+}
+
+.splayers{
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+.bat{
+	text-align:center;
+}
+
+.small{
+	text-align:center;
+}
+
+.hi{
+	background-color:#61876E;
+	color:white;
+}
+
+.hell{
+	background-color:#EAE7B1;
+}
+
+.hello{
+	background-color:#579BB1;
+	color:white;
+}
+
+.ee{
+	background-color:#E1D7C6;
+	
+}
+
+.iplayers{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+.fall{
+	text-align:center;
+}
+
+.sbowling{
+	text-align:center;
+}
+
+.sriplayers{
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+.sachin{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.worldcup{
+	width:100%;
+}
+
+.crowd{
+width:40%;
+}
+
+.emotional{
+width:30%;
+margin-left:auto;
+margin-right:auto;
+}	
+
+.hug{
+	width:29%;
+	float:right;
+}
+
